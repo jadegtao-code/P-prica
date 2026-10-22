@@ -1,0 +1,6 @@
+{
+  "name": "Páprica + Urbano.s | Sistema de Gestão",
+  "description": "Sistema integrado de gestão para Páprica Arquitetura & Interiores e Urbano.s Apartamentos por Temporada (Rio de Janeiro).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
